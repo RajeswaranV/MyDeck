@@ -1,4 +1,4 @@
-MyDeck
+Notes
 ======
 
-For slides
+For discussion notes
